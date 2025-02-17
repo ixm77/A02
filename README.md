@@ -17,8 +17,8 @@ How to use VSCode/Git/Github
 12. To update your local repo, type "git pull"
 
 Define Terms
-**Branch** - A separate version of the main repository
-**Clone** - To get a copy of a remote repository from Github
+**1. Branch** - A separate version of the main repository
+**2. Clone** - To get a copy of a remote repository from Github
 **Commit** - Saves and tracks changes of a file
 **Fetch** - Downloads files from a remote repository without merging your local repo
 **Git** - A version control system
