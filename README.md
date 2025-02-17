@@ -17,15 +17,15 @@ How to use VSCode/Git/Github
 12. To update your local repo, type "git pull"
 
 Define Terms
-**1. Branch** - A separate version of the main repository
-**2. Clone** - To get a copy of a remote repository from Github
-**Commit** - Saves and tracks changes of a file
-**Fetch** - Downloads files from a remote repository without merging your local repo
-**Git** - A version control system
-**GitHub** - A website that stores repos online. Works along with Git.
-**Merge** - Merges changes from a branch to your current branch
-**Merge Conflict** - When there's changes that conflict with each other when merging
-**Push** - Pushes your changes in your local repo to a remote repo
-**Pull** - Pulls changes from a remote repo to your local repo
-**Remote** - Creates a connection with a remote repo
-**Repository** - A place where your files, code, and changes are stored
+- **Branch** - A separate version of the main repository
+- **Clone** - To get a copy of a remote repository from Github
+- **Commit** - Saves and tracks changes of a file
+- **Fetch** - Downloads files from a remote repository without merging your local repo
+- **Git** - A version control system
+- **GitHub** - A website that stores repos online. Works along with Git.
+- **Merge** - Merges changes from a branch to your current branch
+- **Merge Conflict** - When there's changes that conflict with each other when merging
+- **Push** - Pushes your changes in your local repo to a remote repo
+- **Pull** - Pulls changes from a remote repo to your local repo
+- **Remote** - Creates a connection with a remote repo
+- **Repository** - A place where your files, code, and changes are stored
