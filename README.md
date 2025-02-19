@@ -10,7 +10,7 @@ How to use VSCode/Git/Github
 5. When you have Git installed, open Git Bash.
 6. Go back to Github and open the repository that you created. Click on the green 'Code' button and copy the HTTPs link
 7. In Git Bash, type in 'git clone ' and paste the HTTPs link. This will create a local copy of the repository
-8. Open VSCode and open your folder "C:\Users\<your user>" and open the local repo
+8. Open VSCode and open your folder "C:\Users\ <your user>" and open the local repo
 9. Open a new terminal and select Git Bash
 10. If you make a new file/make updates to the file and you're done, type in the terminal "git add <path to new/updated file>", then "git commit -m <write a message about your change>"
 11. To push your changes to Github, type "git push"
